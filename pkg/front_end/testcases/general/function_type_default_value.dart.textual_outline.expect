@@ -1,2 +1,0 @@
-void Function({obj: Object})? x;
-main() {}

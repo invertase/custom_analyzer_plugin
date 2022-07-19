@@ -1,4 +1,0 @@
-library test;
-
-main() {}
-typedef int F();

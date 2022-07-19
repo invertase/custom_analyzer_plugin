@@ -1,7 +1,0 @@
-library test /*isNonNullableByDefault*/;
-import self as self;
-import "dart:core" as core;
-
-typedef ToValue<contravariant T extends core::Object? = dynamic> = (T%) → void;
-static method test() → dynamic
-  ;

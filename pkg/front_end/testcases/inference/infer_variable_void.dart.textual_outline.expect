@@ -1,5 +1,0 @@
-library test;
-
-void f() {}
-var x = f();
-main() {}

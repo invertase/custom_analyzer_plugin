@@ -1,2 +1,0 @@
-cfe=pkg/front_end/test/patching/patching_test.dart
-cfe:nnbd=pkg/front_end/test/patching/patching_test.dart

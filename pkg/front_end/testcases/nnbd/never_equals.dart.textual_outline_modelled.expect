@@ -1,2 +1,0 @@
-main() {}
-test(Never nonNullableNever, Never? nullableNever) {}

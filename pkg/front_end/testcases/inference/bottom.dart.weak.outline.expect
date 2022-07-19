@@ -1,6 +1,0 @@
-library test /*isNonNullableByDefault*/;
-import self as self;
-
-static field dynamic v;
-static method main() → dynamic
-  ;

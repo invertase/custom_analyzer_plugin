@@ -1,6 +1,0 @@
-class A<TypeT, TypeS extends TypeT> {}
-
-class B<TypeU extends A> {}
-
-B b = throw '';
-main() {}

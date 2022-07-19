@@ -1,3 +1,0 @@
-class Hest<TypeX extends Hest, TypeY extends Hest> {}
-
-main() {}

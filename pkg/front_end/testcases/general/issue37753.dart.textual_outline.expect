@@ -1,2 +1,0 @@
-Iterable<int> getElements() sync* {}
-main() => print(getElements());

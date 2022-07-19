@@ -1,5 +1,0 @@
-class Fisk<TypeY extends Map<Hest, Hest>> {}
-
-class Hest<TypeX extends Hest<TypeX>> {}
-
-main() {}

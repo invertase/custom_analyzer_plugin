@@ -1,3 +1,0 @@
-M(rdi int64) Struct(size: 8)
-=>
-M(rax int64) Struct(size: 8)

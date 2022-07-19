@@ -1,9 +1,0 @@
-@a
-class C = D with E;
-
-class D {}
-
-class E {}
-
-const a = null;
-main() {}

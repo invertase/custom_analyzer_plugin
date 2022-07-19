@@ -1,5 +1,0 @@
-import 'dart:collection';
-
-class Hest<X extends LinkedListEntry> {}
-
-main() {}

@@ -1,4 +1,0 @@
-library test;
-
-void test(int x, void f()) {}
-main() {}

@@ -1,4 +1,0 @@
-library test;
-
-main() {}
-var x = {null: null};

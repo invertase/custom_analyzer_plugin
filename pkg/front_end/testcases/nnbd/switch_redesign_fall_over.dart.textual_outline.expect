@@ -1,9 +1,0 @@
-bar() {}
-foo(int x, bool b) {}
-
-abstract class A {
-  foo(int x, bool b) {}
-  Never neverReturn();
-}
-
-main() {}

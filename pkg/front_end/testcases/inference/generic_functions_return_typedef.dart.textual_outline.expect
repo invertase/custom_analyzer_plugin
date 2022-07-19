@@ -1,4 +1,0 @@
-library test;
-
-typedef void ToValue<T>(T value);
-test() {}

@@ -1,3 +1,0 @@
-foo() {}
-bar(d) async* {}
-main() {}

@@ -1,3 +1,0 @@
-class Hest<TypeX extends Map<Hest, Hest>> {}
-
-main() {}
